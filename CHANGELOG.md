@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.2](https://github.com/open-feature/python-sdk/compare/v0.4.1...v0.4.2) (2024-01-17)
+
+
+### Documentation
+
+* document shutdown function ([#237](https://github.com/open-feature/python-sdk/issues/237)) ([95d69e2](https://github.com/open-feature/python-sdk/commit/95d69e27b3f6b9cb9f716ae4b2d5b0879c0253e3))
+
 ## [0.4.1](https://github.com/open-feature/python-sdk/compare/v0.4.0...v0.4.1) (2023-11-08)
 
 
